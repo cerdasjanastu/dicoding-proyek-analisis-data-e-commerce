@@ -18,3 +18,12 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard/dashboard.py
 ```
+
+## Deployed streamlit app
+[streamlit app](https://cerdasjanastu-dicoding-proyek-analisi-dashboarddashboard-keejik.streamlit.app/)
+
+screenshot
+![Sceenshot streamlit 1](./image/ss1.png)
+![Sceenshot streamlit 2](./image/ss2.png)
+![Sceenshot streamlit 3](./image/ss3.png)
+![Sceenshot streamlit 4](./image/ss4.png)
