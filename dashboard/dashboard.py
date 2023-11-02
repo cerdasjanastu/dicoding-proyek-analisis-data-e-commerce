@@ -140,7 +140,7 @@ def create_rfm_df(df):
 
 
 # import data
-all_df = pd.read_csv("./main_data.csv")
+all_df = pd.read_csv("./dashboard/main_data.csv")
 
 # datetime column for filter
 all_df.sort_values(by="order_purchase_timestamp", ascending=True, inplace=True)
